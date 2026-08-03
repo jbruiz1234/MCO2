@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MCO2/MCO2.vcxproj" Id="3520b36e-8cd8-4bda-b79b-1e57fd3fde0d" />
+</Solution>
