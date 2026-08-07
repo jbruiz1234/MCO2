@@ -71,49 +71,11 @@ All tests passed successfully.
 
 <img width="403" height="226" alt="image" src="https://github.com/user-attachments/assets/af63a52e-a9e8-4267-bc58-7efe306694b7" />
 
-
-Example:
-
-```
-C kernel first 10 results:
-
-Z[0] = 13.000000
-Z[1] = 16.000000
-Z[2] = 19.000000
-Z[3] = 22.000000
-Z[4] = 25.000000
-Z[5] = 28.000000
-Z[6] = 31.000000
-Z[7] = 34.000000
-Z[8] = 37.000000
-Z[9] = 40.000000
-```
-
 ---
 
 # Sample Output (Assembly)
 
 <img width="422" height="256" alt="image" src="https://github.com/user-attachments/assets/33c2ef0a-5806-432a-ab6e-cd2b1112a9a9" />
-
-
-Example:
-
-```
-Assembly kernel first 10 results:
-
-Z[0] = 13.000000
-Z[1] = 16.000000
-Z[2] = 19.000000
-Z[3] = 22.000000
-Z[4] = 25.000000
-Z[5] = 28.000000
-Z[6] = 31.000000
-Z[7] = 34.000000
-Z[8] = 37.000000
-Z[9] = 40.000000
-
-Assembly correctness check: PASSED
-```
 
 ---
 
