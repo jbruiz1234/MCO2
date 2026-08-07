@@ -2,8 +2,6 @@ OPTION CASEMAP:NONE
 
 .code
 
-PUBLIC saxpy_asm
-
 saxpy_asm PROC
 
     ; RCX = n
