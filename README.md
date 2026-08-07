@@ -135,7 +135,7 @@ Assembly correctness check: PASSED
 
 # Video Demonstration
 
-Include links to the required videos:
+ link to the video demo:
 
 https://youtu.be/Qja8GonEYAI
 
