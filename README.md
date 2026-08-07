@@ -137,9 +137,7 @@ Assembly correctness check: PASSED
 
 Include links to the required videos:
 
-- Video 1 – Source Code Walkthrough
-- Video 2 – Compilation
-- Video 3 – Program Execution
+https://youtu.be/Qja8GonEYAI
 
 ---
 
