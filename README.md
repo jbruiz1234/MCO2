@@ -69,7 +69,8 @@ All tests passed successfully.
 
 # Sample Output (C)
 
-Insert screenshot here.
+<img width="403" height="226" alt="image" src="https://github.com/user-attachments/assets/af63a52e-a9e8-4267-bc58-7efe306694b7" />
+
 
 Example:
 
@@ -92,7 +93,8 @@ Z[9] = 40.000000
 
 # Sample Output (Assembly)
 
-Insert screenshot here.
+<img width="422" height="256" alt="image" src="https://github.com/user-attachments/assets/33c2ef0a-5806-432a-ab6e-cd2b1112a9a9" />
+
 
 Example:
 
@@ -123,9 +125,9 @@ Only the kernel execution was timed.
 
 | Vector Size | C Kernel (seconds) | x86-64 Assembly (seconds) | C / ASM Ratio |
 |-------------|-------------------:|--------------------------:|--------------:|
-| 2²⁰ | 0.000497177 | 0.000866720 | 0.574× |
-| 2²⁴ | 0.008882723 | 0.014196090 | 0.626× |
-| 2²⁸ | 0.148841140 | 0.226963917 | 0.656× |
+| 2²⁰ | 0.000299583 | 0.000851307 | 0.352x |
+| 2²⁴ | 0.009160547 | 0.014224270 | 0.644x |
+| 2²⁸ | 0.147124627 | 0.228112370 | 0.645x |
 
 ---
 
